@@ -1,3 +1,15 @@
+Portafolio personal desarrollado con React. Este portafolio contiene pestañas de:
+  Acerca de mi
+  CV
+  Proyectos
+  Contacto
+  
+Los proyectos poseen links hacia los respectivos repositorios de Github.
+En la pagina principal se encuentran links hacia el perfil de LinkedIn y Github.
+  
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
